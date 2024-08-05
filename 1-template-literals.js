@@ -12,4 +12,6 @@ let example = `
 ${name}
 ${surname}`;
 
-console.log(example)
+console.log(example);
+
+
