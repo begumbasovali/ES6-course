@@ -24,7 +24,7 @@ addressMaker({city: 'Austin', state: 'Texas'});
 */
 
 function addressMaker(address) {
-  const {city, state} = adress;
+  const {city, state} = address;
   const newAddress = {
       city,
       state,
